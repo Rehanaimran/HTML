@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#box2 {}
+
+button {
+    border-radius: 45px;
+    border: black;
+
+}
+
+#box1 {
+    background-color: white;
+    border-width: 45px;
+    border-radius: 45px;
+    border: none;
+}
+
+#box3 {
+    color: chocolate;
+}
+
+#box4 {
+    color: rgb(208, 255, 0);
+}
+
+nav a:hover {
+    border-width: 320px;
+}
